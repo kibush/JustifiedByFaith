@@ -1,2 +1,2 @@
 # JustifiedByFaith
-Git Hub Pages Repositories
+Hello World !
